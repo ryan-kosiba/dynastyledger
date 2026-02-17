@@ -1,0 +1,5 @@
+playwright
+beautifulsoup4
+pandas
+psycopg2-binary
+python-dotenv
